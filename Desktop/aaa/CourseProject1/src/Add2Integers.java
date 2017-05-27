@@ -1,5 +1,9 @@
 import acm.program.*;
 
+/*
+ *This program adds two integer it receives from the console. 
+ */
+
 public class Add2Integers extends ConsoleProgram {
 	public void run() {
 		println("This program adds two numbers.");
