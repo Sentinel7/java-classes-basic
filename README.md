@@ -1,6 +1,6 @@
 # An Assortment of my First Java Programs
 
-This repository contains many programs I had made in Java around the time I began programming. There is a mix of different kinds of programs, mostly including the basics:
+This repository consists of many of my initial Java programs made from following along the Stanford 'Programming Methodology' course https://see.stanford.edu/Course/CS106A, and also contains some of my own ideas. There is a mix of different kinds of programs, mostly including the basics:
 
 (The programs can be found in the src folder of CourseProject1)
 
