@@ -9,3 +9,8 @@ This repository consists of many of my initial Java programs made from following
 * Graphics and Games
 * Math
 * Many others
+
+## Notable Programs:
+
+* Breakout.java (Simple breakout game, made using the ACM graphics library)
+* 
